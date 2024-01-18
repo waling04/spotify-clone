@@ -5,7 +5,7 @@ export default function Login() {
     const handleClick = () => {
         // alert('click!')
         const clientId = 'd9fc838b57cc43eb94ca13fd741cbee5';
-        const redirectUrl = 'http://localhost:3000/'
+        const redirectUrl = 'https://spotify-clone-thanwarat.vercel.app/'
         const apiUrl = 'https://accounts.spotify.com/authorize'
         const scope = [
         'user-read-email', 
