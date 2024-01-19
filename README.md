@@ -8,7 +8,7 @@
 3. ##### choose and play your preferred songs
 
 ## Testing the project
-1. ##### Before testing the project, you need to provide your name and email address for access to the Spotify API by send your Spotify E-mail address to thanwarat.stsn@hotmail.com 
+1. ##### Before testing the project, you need to provide your name and email address for access to the Spotify API by send your Spotify E-mail address to thanwarat.stsn@hotmail.com 📮
 ##### ***Please note that API access requests may take up to 24 hours for a response. Thank you for your patience!*
 2. ##### Go to the live project using the provided access instructions.
 3. ##### Enjoy the Spotify-Clone experience!
