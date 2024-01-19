@@ -17,6 +17,6 @@
 ##### Thank you for your interest in the Spotify-Clone project! We look forward to hearing your feedback and hope you enjoy the seamless Spotify-Clone experience. May your bugs be minimal!🎵🎹🎧
 
 ## Feedback
-##### We welcome your feedback and appreciate your assistance in improving the Spotify-Clone project. If you encounter any bugs, issues, or have suggestions for enhancements, feel free to contact me at thanwarat.stsn@hotmail.com 📮
+##### Welcome your feedback and appreciate your assistance in improving the Spotify-Clone project. If you encounter any bugs, issues, or have suggestions for enhancements, feel free to contact me at thanwarat.stsn@hotmail.com 📮
 
 
